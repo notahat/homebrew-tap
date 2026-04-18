@@ -1,6 +1,6 @@
 cask "shunt" do
-  version "1.1.0"
-  sha256 "fdb6a857bc35abd6dd79e06299f795ccdea9e65c47a718987011b20987b54976"
+  version "1.2.0"
+  sha256 "83c20aa60ca84271e3cfa836edcef538511f5c7c34687a8286004a57fdfc3138"
 
   url "https://github.com/notahat/Shunt/releases/download/v#{version}/Shunt-#{version}.zip"
   name "Shunt"
